@@ -20,6 +20,7 @@ class MainActivity : ComponentActivity() {
         setContent { // hgjhgbnvbhggghfhfghfghgf
             //Hola mundo
             //Creacion de nueva rama
+            //Rama2ahorasi
             Ejemplo1Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
