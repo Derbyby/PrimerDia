@@ -22,6 +22,8 @@ class MainActivity : ComponentActivity() {
             //Creacion de nueva rama
             //Rama2ahorasi
             //Yessenia Veronica Morones Dovali
+            //22130839
+
             Ejemplo1Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
